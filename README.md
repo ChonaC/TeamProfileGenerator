@@ -6,3 +6,6 @@ This application allows the user to input employee informations in order to keep
 ## Walkthrough:
 [![Watch the video])](https://drive.google.com/file/d/1U1CqlHVCYsGb_qP3CFzHve21nwS0KpGX/preview)
 
+## HTML Sample:
+
+I have tried many times to fix the coding, but for some reason I keep getting an error message.
